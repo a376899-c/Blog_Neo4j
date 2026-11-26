@@ -1,0 +1,4 @@
+# contrasena de Neo4j (cada quien crea su config.py a partir de config_ejemplo.py)
+config.py
+__pycache__/
+*.pyc
